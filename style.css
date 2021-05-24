@@ -48,3 +48,13 @@ img{
 h3{
   font-family: "Courgette", cursive;
 }
+img{
+  transition: transform .2s;
+  border:10px solid #aaaaaa;
+}
+img:hover{
+  transform: scale(0.9);
+}
+h4{
+  font-family: "Courgette", cursive;
+}
